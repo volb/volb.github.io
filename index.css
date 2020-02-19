@@ -1,22 +1,17 @@
-
-
 .top {
+    width: 100vw; 
+    padding-top: 25vh; 
     height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     color: rgb(184, 213, 230);
     font-size: 5em;
     font-family: Lato, Arial, Helvetica, sans-serif;
- 
-
-  }
+}
+/*
 
 body {
     height: 100%;
 }
-  
-  
+
 html {
     height: 100%;
     background-color: #33658A;
@@ -26,26 +21,22 @@ a:link {
     color: #F6B540;
     background-color: transparent;
     text-decoration: none;
-  }
-  
-  a:visited {
+}
+
+a:visited {
     color: #FDF0D8;
     background-color: transparent;
     text-decoration: none;
-  }
-  
-  a:hover {
+}
+
+a:hover {
     color: #FAD28C;
     background-color: transparent;
     text-decoration: underline;
-  }
-  
-  a:active {
+}
+
+a:active {
     color: #F8C466;
     background-color: transparent;
     text-decoration: underline;
-  }
-  
-  a {
-    white-space: nowrap;
-  }
+}

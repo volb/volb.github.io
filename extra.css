@@ -22,7 +22,7 @@
     2px 1px 0 #000,
     -2px 1px 0 #000,
     2px -1px 0 #000,
-    -2px -1px 0 #000;*/
+    -2px -1px 0 #000;
 
     /*:root {
     background:
@@ -33,4 +33,10 @@
     linear-gradient(30deg,#33658A 24%,#E09F29 0,#E09F29 26%,rgba(240,166,17,0) 0,rgba(240,166,17,0) 74%,#E09F29 0,#E09F29 76%,#33658A 0)0 0,
     linear-gradient(90deg,#E09F29 2%,#33658A 0,#33658A 98%,#E09F29 0%)0 0 #33658A;
     background-size: 40px 60px;
+}
+
+.Aligner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }*/
